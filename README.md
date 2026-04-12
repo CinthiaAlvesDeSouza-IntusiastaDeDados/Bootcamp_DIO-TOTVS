@@ -1,11 +1,11 @@
-# DIO e a Totvs S.A..
+# DIO e Totvs S.A..
 ## Bootcamp TOTVS - Fundamentos de Engenharia de Dados e Machine Learning 
 
  ### Repositório para documentarconteúdo de estudos e práticas 📔
 
 ## Recursos Úteis 
 ### Repositório 
-[Repositório com material de apoio gamificado](https://github.com/elidianaandrade/git-github-learning-quest)) 
+[Repositório com material de apoio gamificado](https://github.com/elidianaandrade/git-github-learning-quest)
 
 ### Slide 
 (Versionamento de Código com Git e GitHub.pptx) [Apresentação utilizada no curso]
@@ -13,7 +13,7 @@
 ### Links Úteis
 [Repositório com Link para Aulas de Git e GitHubGitHub Quick Start](https://github.com/digitalinnovationone/github-quickstart)
 
-[GitBook: Formação GitHub Certification - Material textual sobre GitHub](https://aline-antunes.gitbook.io/formacao-fundamentos-github))
+[GitBook: Formação GitHub Certification - Material textual sobre GitHub](https://aline-antunes.gitbook.io/formacao-fundamentos-github)
 
 [Documentação do GitHub - Guia completo para uso do GitHub](https://docs.github.com/)
 
