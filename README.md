@@ -1,4 +1,4 @@
-# DIO e Totvs S.A..
+# DIO | Totvs S.A..
 ## Bootcamp TOTVS - Fundamentos de Engenharia de Dados e Machine Learning 
 
  ### 🗃️ Repositório para documentar conteúdo de estudos e práticas 
@@ -6,6 +6,8 @@
  ### Resumo das aulas 
  | Aulas | Resumos |
  |------| ------- |
+
+'''git-init'''
 
 ## Recursos Úteis 
 ### Repositório 
