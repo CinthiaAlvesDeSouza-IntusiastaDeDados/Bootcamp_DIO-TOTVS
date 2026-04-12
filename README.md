@@ -7,7 +7,9 @@
  | Aulas | Resumos |
  |------| ------- |
 
-'''git-init'''
+'''
+git-init
+'''
 
 ## Recursos Úteis 
 ### Repositório 
