@@ -8,7 +8,7 @@
 [Repositório com material de apoio gamificado](https://github.com/elidianaandrade/git-github-learning-quest)
 
 ### Slide 
-(Versionamento de Código com Git e GitHub.pptx) [Apresentação utilizada no curso]
+[Apresentação utilizada no curso](https://github.com/elidianaandrade/git-github-learning-quest)
 
 ### Links Úteis
 [Repositório com Link para Aulas de Git e GitHubGitHub Quick Start](https://github.com/digitalinnovationone/github-quickstart)
