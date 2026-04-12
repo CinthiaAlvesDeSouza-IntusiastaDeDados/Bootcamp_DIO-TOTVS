@@ -8,7 +8,7 @@
  |------| ------- |
 
 '''
-git-init
+git init
 '''
 
 ## Recursos Úteis 
