@@ -25,4 +25,7 @@ git init
 
 - [Documentação do GitHub - Guia completo para uso do GitHub](https://docs.github.com/)
 
-- [GitHub Markdown - Guia específico para Markdown no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
+- [GitHub Markdown - Guia específico para Markdown no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+  
+- [GitHub - trilha-python-dio](https://github.com/digitalinnovationone/trilha-python-dio)
+  
