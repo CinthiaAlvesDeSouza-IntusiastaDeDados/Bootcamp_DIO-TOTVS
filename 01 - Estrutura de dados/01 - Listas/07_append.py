@@ -1,0 +1,9 @@
+# Apepend é um método de listas que permite adicionar um elemento ao final da lista.
+
+lista = []
+
+lista.append(1)
+lista.append("Python")
+lista.append([40, 30, 20])
+
+print(lista)  # [1, "Python", [40, 30, 20]]
